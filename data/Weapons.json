@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":112,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Espada","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"Hacha","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":129,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":105,"name":"Extinguisher","note":"<Weapon Image: extinguisher>","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":12},
+{"id":4,"animationId":128,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":103,"name":"Chainsaw","note":"<Weapon Image: chainsaw>","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":7},
+{"id":5,"animationId":124,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Shotgun","note":"<Weapon Image: shotgun>","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":6,"animationId":125,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":100,"name":"SuperShotgun","note":"<Weapon Image: supershotgun>","params":[0,0,30,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":7,"animationId":126,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.15}],"iconIndex":97,"name":"Chaingun","note":"<Weapon Image: chaingun>","params":[0,0,13,0,0,0,0,0],"price":0,"wtypeId":14},
+{"id":8,"animationId":122,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"RocketLauncher","note":"<Weapon Image: rocketlauncher>","params":[0,0,50,0,0,0,0,0],"price":0,"wtypeId":16},
+{"id":9,"animationId":123,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.15}],"iconIndex":98,"name":"PlasmaRifle","note":"<Weapon Image: plasmarifle>","params":[0,0,40,0,0,0,0,0],"price":0,"wtypeId":15},
+{"id":10,"animationId":97,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"BFG9000","note":"<Weapon Image: bfg9000>","params":[0,0,500,0,0,0,0,0],"price":0,"wtypeId":15}
+]

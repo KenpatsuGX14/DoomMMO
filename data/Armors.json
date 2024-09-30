@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":181,"name":"Casco","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":195,"name":"Armadura Verde","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":196,"name":"Armadura Azul","note":"","params":[0,0,0,20,0,0,0,0],"price":300},
+{"id":5,"atypeId":0,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":192,"name":"Googles","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":6,"atypeId":0,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":64,"dataId":5,"value":1}],"iconIndex":194,"name":"Mochila","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":41,"dataId":1,"value":1}],"iconIndex":67,"name":"Collar canino","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
